@@ -31,7 +31,7 @@ This project is a robust and scalable ASP.NET MVC 5 framework designed to stream
 ### Steps
 1. **Clone the Repository**: 
    ```sh
-   git clone https://github.com/yourusername/project-repo.git
+   [git clone https://github.com/yourusername/project-repo.git](https://github.com/PrasadSawant11121999/MVC5Framework.Prasad.git)
    ```
 2. **Open the Project in Visual Studio**:
    - Navigate to the project folder and open the `.sln` file.
